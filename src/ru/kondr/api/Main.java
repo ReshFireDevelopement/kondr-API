@@ -3,7 +3,7 @@ package ru.kondr.api;
 import org.apache.logging.log4j.core.config.plugins.Plugin;
 import org.bukkit.plugin.java.*;
 
-@Plugin(name = "kondr-API", version = "1.0.0", category = "")
+@Plugin(name = "kondr-API", version = "1.0.0")
 @Author("kondr")
 public class Main extends JavaPlugin
 {
