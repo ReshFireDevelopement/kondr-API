@@ -15,5 +15,5 @@
 Если у Вас есть какие-то предложения, 
 то можете обратиться к нам через указанные контакты:
 
-* **[Discord](https://discord.com)**
+* **[Discord](https://discord.gg/qZUT8JKd)**
 * **[ВКонтакте](https://vk.me/reshfire)**
